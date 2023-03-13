@@ -2,6 +2,6 @@
 
 ### This is Xinchen-Fan :cherry_blossom:
 
-:yum: Architecture, Digital Design, AI
+:yum: 找个电子厂打工
 
 :mortar_board: B.E. @EE, WHU
