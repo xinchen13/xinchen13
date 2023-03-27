@@ -4,4 +4,6 @@
 
 :yum: 找个电子厂打工
 
-:mortar_board: B.E. @EE, WHU
+:mortar_board: 2019-2023, B.E. @EE, WHU
+
+Future: 2023-2026, M.E. @EE, THU
