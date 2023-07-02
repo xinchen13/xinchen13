@@ -4,6 +4,6 @@
 
 :yum: 找个电子厂打工
 
-:mortar_board: Sept.2019 - Jun.2023, B.S. @EE, WHU
+:mortar_board: Sept.2019 - Jun.2023, BE @EE, WHU
 
-:mortar_board: Sept.2023 - ?, M.S. @EE, THU
+:mortar_board: Sept.2023 - ?, MEng @EE, THU
