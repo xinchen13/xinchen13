@@ -2,7 +2,7 @@
 
 ### This is Xinchen :cherry_blossom:
 
-:yum: 找个电子厂打工
+:yum:
 
 :mortar_board: Sept.2019 - Jun.2023, BE @EE, WHU
 
