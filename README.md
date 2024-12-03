@@ -2,7 +2,7 @@
 
 ### This is Xinchen :cherry_blossom:
 
-:yum:
+:yum: Architecture, Digital front-end design/verification
 
 :mortar_board: Sept.2019 - Jun.2023, BE @EE, WHU
 
