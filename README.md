@@ -4,8 +4,8 @@
 
 :yum: Digital IC Design Engineer
 
-:mortar_board: Sept.2019 - Jun.2023, BE @EE, WHU
+:mortar_board: Sept.2019 - Jun.2023, BE @EE, Wuhan University
 
-:mortar_board: Sept.2023 - Now, MEng @EE, THU
+:mortar_board: Sept.2023 - Now, MEng @EE, Tsinghua University
 
 :wrench: Jul.2024 - Now, Processor Design Intern, @上海清华国际创新中心(IICTUS) & 上海芯车无限半导体科技有限公司(CHIPV)
