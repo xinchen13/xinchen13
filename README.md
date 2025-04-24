@@ -8,4 +8,4 @@
 
 :mortar_board: Sept.2023 - Now, MEng @EE, Tsinghua University
 
-:wrench: Jul.2024 - Now, Processor Design Intern, @上海清华国际创新中心(IICTUS) & 上海芯车无限半导体科技有限公司(CHIPV)
+:wrench: Jul.2024 - May.2025, RISC-V CPU Design Intern, @上海清华国际创新中心(IICTUS) & 上海芯车无限半导体科技有限公司(CHIPV)
