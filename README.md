@@ -2,7 +2,7 @@
 
 ### This is Xinchen :cherry_blossom:
 
-:yum: Digital IC Design Engineer
+:yum: Digital IC Design & DV Engineer
 
 :mortar_board: Sept.2019 - Jun.2023, BE @EE, Wuhan University
 
